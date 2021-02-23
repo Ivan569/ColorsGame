@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\ColorsGame\bin\Debug\ColorsGame.exe.config
+C:\Users\Пользователь\source\repos\ColorsGame\bin\Debug\ColorsGame.exe
+C:\Users\Пользователь\source\repos\ColorsGame\bin\Debug\ColorsGame.pdb
+C:\Users\Пользователь\source\repos\ColorsGame\obj\Debug\ColorsGame.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ColorsGame\obj\Debug\ColorsGame.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ColorsGame\obj\Debug\ColorsGame.exe
+C:\Users\Пользователь\source\repos\ColorsGame\obj\Debug\ColorsGame.pdb
